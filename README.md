@@ -10,5 +10,5 @@ Data visual using Python GUI (Tkinter)
 <img src="Screenshots/3.png"><br><br>
 <h3>4. After selecting, Click on View button.</h3>
 <img src="Screenshots/4.png"><br><br>
-<h3>5. A bar graph is displayed with the salary columns of data.</h3>
+<h3>5. A bar graph is displayed with the selected columns of data.</h3>
 <img src="Screenshots/5.png">
