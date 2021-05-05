@@ -1,6 +1,7 @@
 # Data-Visualizer-Using-Python-GUI
 Data visual using Python GUI (Tkinter)
 
+<h2>Video Explanation <a href="https://youtu.be/RD-ZmHblp3E"><u>Click here</u></a></h2>
 <h2>Screenshots</h2>
 <h3>1. Browse File (csv or xlsx)</h3>
 <img src="Screenshots/1.png"><br><br>
